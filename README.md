@@ -1,2 +1,3 @@
 # Clasificador-de-Hongos
 Este repositorio contiene el código fuente y los recursos utilizados para desarrollar un clasificador de hongos basado en machine learning. 
+El objetivo del proyecto es identificar si un hongo es comestible o venenoso utilizando datos sobre sus características morfológicas. El clasificador se ha entrenado utilizando un conjunto de datos etiquetado y se han implementado diferentes algoritmos de aprendizaje automático para lograr una clasificación precisa. Para obtener más detalles sobre el proceso de desarrollo y los resultados obtenidos, consulta el artículo completo en Medium: [Clasificador de Hongos: Identificando Especies Comestibles y Venenosas.](https://medium.com/@karenaraqueo/clasificador-de-hongos-e75a1b538605)
